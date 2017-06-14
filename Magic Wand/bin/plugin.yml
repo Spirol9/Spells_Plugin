@@ -1,0 +1,10 @@
+name: Magic Wand
+version: 1.5
+main: org.Spirol9.MagicWand.Main
+description: Magic Wand Plugin.
+authour: J&M
+commands:
+  Wand:
+    description: Plugin By Spirol9
+  Bind:
+    description: Plugin By Spirol9
